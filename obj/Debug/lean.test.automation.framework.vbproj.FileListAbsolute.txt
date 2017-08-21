@@ -23,7 +23,6 @@ C:\LeanTestAutomation\Scripts\boticario.app_revendedora_eudora\obj\Debug\Lean.Te
 C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Lean.Test.Automation.Framework.exe.config
 C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Lean.Test.Automation.Framework.exe.manifest
 C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Lean.Test.Automation.Framework.application
-C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Lean.Test.Automation.Framework.exe
 C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Lean.Test.Automation.Framework.pdb
 C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Lean.Test.Automation.Framework.xml
 C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\AxInterop.SHDocVw.dll
@@ -42,3 +41,5 @@ C:\LeanTestAutomation\Scripts\default_framework\obj\Debug\Lean.Test.Automation.F
 C:\LeanTestAutomation\Scripts\default_framework\obj\Debug\Lean.Test.Automation.Framework.exe
 C:\LeanTestAutomation\Scripts\default_framework\obj\Debug\Lean.Test.Automation.Framework.xml
 C:\LeanTestAutomation\Scripts\default_framework\obj\Debug\Lean.Test.Automation.Framework.pdb
+C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\LeanTestAutomation\Scripts\default_framework\obj\Debug\lean.test.automation.framework.vbprojResolveAssemblyReference.cache
